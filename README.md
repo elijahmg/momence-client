@@ -6,7 +6,7 @@ To install packages run `bun install`
 
 To run it locally run `bun run dev`
 
-Page is deployed on vercel
+Page is deployed on vercel https://momence-client.vercel.app/
 
 # Notes
 
@@ -25,5 +25,6 @@ Page has very simple design and it's not perfectly responsive on mobile :(
 
 1. Better responsiveness for mobile
 2. Better design of the table on mobile and maybe make proper date with td tr etc. html tags
+3. Put URL for backend in env variable
 
 ## Hope to hear feedback soon :)
